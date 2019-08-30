@@ -60,7 +60,8 @@
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "0.420",
-      "courses": "Why Game of Thrones Season 8 Sucks", "How to Ensure the High Ground"
+      "courses": "Why Game of Thrones Season 8 Sucks", 
+                "How to Ensure the High Ground"
     }
   ],
   "work": [
@@ -96,7 +97,7 @@
       "title": "Participation Award",
       "date": "Since Birth-Present",
       "awarder": "Humankind",
-      "summary": "Participation is awarded to not Just the Men, but the Women and Children too as a warm welcome to reality which humankind is prospering."
+      "summary": "Participation is awarded to not just the men, but the women and children too as a warm welcome to reality which humankind is prospering."
     }
   ],
   "references": [
