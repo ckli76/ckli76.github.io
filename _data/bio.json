@@ -42,7 +42,7 @@
   ],
   "skills": [
     {
-      "name": "Life Skills",
+      "name": "",
       "level": "",
       "keywords": [
       ]
@@ -61,29 +61,28 @@
   ],
   "work": [
     {
-      "company": "Jedi Order",
-      "position": "Not Granted a Seat on the Council",
+      "company": "",
+      "position": "",
       "website": "",
-      "startDate": "2017-09-01",
-      "endDate": "66",
-      "summary": "The Jedi Council is outrageous, it's unfair … I'm more powerful than any of them. How can you be on the Council and not be a Master?",
-      "highlights": [
-        "I don't like sand. It's all coarse, and rough, and irritating. And it gets everywhere",
-        "My powers have doubled since the last time we met."
+      "startDate": "",
+      "endDate": "",
+      "summary": "": [
+        "",
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Sith Galactic Empire",
+      "organization": "",
       "website": "",
-      "position": "Stormtrooper",
-      "startDate": "19 BBY",
-      "endDate": "5 ABY",
-      "summary": "Empire never trained us so we don't know how to shoot at rebel scum",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "These aren't the droids we're looking for",
-        "Move along... move along"
+        "",
+        ""
       ]
     }
   ],
@@ -92,7 +91,7 @@
       "title": "Participation Award",
       "date": "Since Birth-Present",
       "awarder": "Humankind",
-      "summary": "Participation is awarded to not just the men, but the women and children too as a warm welcome to reality which humankind is prospering."
+      "summary": ""
     }
   ],
   "references": [
