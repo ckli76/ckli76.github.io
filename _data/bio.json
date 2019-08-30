@@ -42,7 +42,7 @@
   ],
   "skills": [
     {
-      "name": "",
+      "name": "0",
       "level": "",
       "keywords": [
       ]
@@ -56,12 +56,12 @@
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "0.420",
-      "courses": "BUS 311"
+      "courses": ""
     }
   ],
   "work": [
     {
-      "company": "",
+      "company": "0",
       "position": "",
       "website": "",
       "startDate": "",
@@ -74,7 +74,7 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "0",
       "website": "",
       "position": "",
       "startDate": "",
@@ -88,9 +88,9 @@
   ],
   "awards": [
     {
-      "title": "Participation Award",
-      "date": "Since Birth-Present",
-      "awarder": "Humankind",
+      "title": "0",
+      "date": "",
+      "awarder": "",
       "summary": ""
     }
   ],
