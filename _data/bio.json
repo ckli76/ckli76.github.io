@@ -44,7 +44,7 @@
     {
       "name": ,
       "level": ,
-      "keywords": [
+      "keywords" [
       ]
     }
   ],
@@ -61,34 +61,32 @@
   ],
   "work": [
     {
-      "company": ,
-      "position": ,
-      "website": ,
-      "startDate": ,
-      "endDate": ,
+      "company":
+      "position":
+      "website":
+      "startDate":
+      "endDate":
       "summary": [
-        "",
-        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": ,
-      "website": ,
-      "position": ,
-      "startDate": ,
-      "endDate": ,
-      "summary": ,
+      "organization":
+      "website":
+      "position":
+      "startDate":
+      "endDate":
+      "summary":
       "highlights": [
       ]
     }
   ],
   "awards": [
     {
-      "title": ,
-      "date": ,
-      "awarder": ,
+      "title":
+      "date":
+      "awarder":
       "summary":
     }
   ],
