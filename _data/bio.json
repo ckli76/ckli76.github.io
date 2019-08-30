@@ -26,13 +26,12 @@
     {
       "name": "Chinese Novels",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
       "name": "City Exploration",
-      "keywords": [
+      "keywords": ["Tourism",
+                   "Festivals"
       ]
     },
     {
@@ -43,112 +42,68 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Life Skills",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Living",
+        "Breathing",
+        "Eating",
+        "Sleeping",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Marketing & MIS (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-09-01",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "0.420",
+      "courses": "Why Game of Thrones Season 8 Sucks", "How to Ensure the High Ground"[
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Jedi Council",
+      "position": "Not Granted a Seat on the Council",
+      "website": "https://starwars.fandom.com/wiki/Jedi_Order",
+      "startDate": "2017-09-01",
+      "endDate": "Order 66",
+      "summary": "redacted",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "I don't like sand. It's all coarse, and rough, and irritating. And it gets everywhere",
+        "My powers have doubled since the last time we met."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Sith Galactic Empire",
+      "website": "https://starwars.fandom.com/wiki/Galactic_Empire",
+      "position": "Stormtrooper",
+      "startDate": "19 BBY",
+      "endDate": "5 ABY",
+      "summary": "Don't know how to shoot",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "These aren't the droids we're looking for",
+        "Move along... move along"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Participation Award",
+      "date": "Since Birth-Present",
+      "awarder": "Humankind",
+      "summary": "Participation is awarded to 'Not Just the Men, but the Women and Children Too' as a welcome to reality."
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "The Senate",
+      "reference": "https://i0.wp.com/npcdaily.com/wp-content/uploads/2019/03/palpatine.jpg?fit=780%2C405&ssl=1"
     }
   ]
 }
