@@ -65,9 +65,9 @@
   ],
   "work": [
     {
-      "company": "Jedi Council",
+      "company": "Jedi Order",
       "position": "Not Granted a Seat on the Council",
-      "website": "https://starwars.fandom.com/wiki/Jedi_Order",
+      "website": "",
       "startDate": "2017-09-01",
       "endDate": "Order 66",
       "summary": "redacted",
@@ -80,7 +80,7 @@
   "volunteer": [
     {
       "organization": "Sith Galactic Empire",
-      "website": "https://starwars.fandom.com/wiki/Galactic_Empire",
+      "website": "",
       "position": "Stormtrooper",
       "startDate": "19 BBY",
       "endDate": "5 ABY",
@@ -96,13 +96,13 @@
       "title": "Participation Award",
       "date": "Since Birth-Present",
       "awarder": "Humankind",
-      "summary": "Participation is awarded to 'Not Just the Men, but the Women and Children Too' as a welcome to reality."
+      "summary": "Participation is awarded to not Just the Men, but the Women and Children too as a warm welcome to reality which humankind is prospering."
     }
   ],
   "references": [
     {
       "name": "The Senate",
-      "reference": "https://i0.wp.com/npcdaily.com/wp-content/uploads/2019/03/palpatine.jpg?fit=780%2C405&ssl=1"
+      "reference": ""
     }
   ]
 }
