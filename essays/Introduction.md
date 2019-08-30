@@ -4,6 +4,7 @@ type: essay
 title: Introduction
 date: 2019-08-30
 labels:
+- "Hello There"
 ---
 
 Hi. My name is Clement Li and I am a student of ITM 352. There were a number of factors that contributed to my decision to major in MIS. The chief motivation was from my prior STEM experiences during middle and high school. I developed a keen interest in technology and programming thanks to those experiences.  I also took a class with Professor Eduard Merc and the material he lectured on was interesting enough to embark on adding MIS as a second major.
