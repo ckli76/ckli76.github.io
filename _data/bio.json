@@ -42,8 +42,8 @@
   ],
   "skills": [
     {
-      "name": "0",
-      "level": "",
+      "name": ,
+      "level": ,
       "keywords": [
       ]
     }
@@ -55,18 +55,18 @@
       "studyType": "B.S.",
       "startDate": "2017-09-01",
       "endDate": "Present",
-      "gpa": "0.420",
-      "courses": ""
+      "gpa": ,
+      "courses":
     }
   ],
   "work": [
     {
-      "company": "0",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "" [
+      "company": ,
+      "position": ,
+      "website": ,
+      "startDate": ,
+      "endDate": ,
+      "summary": [
         "",
         ""
       ]
@@ -74,24 +74,22 @@
   ],
   "volunteer": [
     {
-      "organization": "0",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": ,
+      "website": ,
+      "position": ,
+      "startDate": ,
+      "endDate": ,
+      "summary": ,
       "highlights": [
-        "",
-        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "0",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": ,
+      "date": ,
+      "awarder": ,
+      "summary":
     }
   ],
   "references": [
