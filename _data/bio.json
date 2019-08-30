@@ -45,10 +45,6 @@
       "name": "Life Skills",
       "level": "",
       "keywords": [
-        "Living",
-        "Breathing",
-        "Eating",
-        "Sleeping",
       ]
     }
   ],
@@ -57,7 +53,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Marketing & MIS (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "32 BBY",
+      "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "0.420",
       "courses": "BUS 311"
